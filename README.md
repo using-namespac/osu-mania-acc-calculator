@@ -17,6 +17,6 @@ Quote: [https://osu.ppy.sh/wiki/en/Gameplay/Accuracy]
 My first program in Github
 
 
-##Special thankes : SpeedyOrc-C [https://github.com/SpeedyOrc-C] (for code support and issue solve)
+## Special thankes : SpeedyOrc-C [https://github.com/SpeedyOrc-C] (for code support and issue solve)
 
 
