@@ -2,10 +2,10 @@
 A calculator for calculating Accs in scoreV1 &amp; scoreV2.  
 multi replaies output enable.
 ## How to use this calculator  
-Step 1: Put .exe file in lazer's export folder (usually ......\osu-lazer\exports)
-Step 2: Export your replay
-Step 3: Run the program and you will see accs 
-
+Step 1: Put .exe file in lazer's export folder (usually ......\osu-lazer\exports) 
+Step 2: Export your replay 
+Step 3: Run the program and you will see accs  
+ 
   
   
   
